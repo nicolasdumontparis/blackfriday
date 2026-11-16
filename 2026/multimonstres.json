@@ -1,0 +1,15 @@
+{
+  "name": "MultiMonstres: Times Tables",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6762561963&code=MONSTRES26",
+  "description": "Times tables game for kids aged 6 to 10, with 100 monster stamps to collect. No ads, no account, works offline",
+  "category": "education",
+  "platforms": ["ios", "ipad"],
+  "deal": "Premium lifetime unlock free with code MONSTRES26, first 500",
+  "code": "MONSTRES26",
+  "pricing": "lifetime",
+  "price": { "regular": 2.99, "sale": 0, "currency": "USD" },
+  "discount": 100,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/05/3c/40053c66-5ef4-57fe-1b2a-1b418e560d18/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
